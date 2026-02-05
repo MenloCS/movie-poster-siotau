@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Make me a movie poster of "The Last Samurai" movie. I want to make a feeling of tragedy and tension. I want the main character to be riding a white horse with samurai armor on and with other samurai behind him also riding horses. They should be in battle. I do not want it to be too tragic but just have a feeling of tragedy. I want the name of the movie to be on the poster but not too attracting. The overall mood should be warm and muted.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  The samurai looks really cool
+- **What didn't work:**  I kind of wanted there to be grass in the background
+- **What I'll change for next attempt:**  I will tell it to add grass
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Make me a movie poster of "The Last Samurai" movie. I want to make a feeling of tragedy and tension. I want the main character to be riding a white horse with red samurai armor on and with other samurai behind him also riding horses. They should be in battle. I do not want it to be too tragic but just have a feeling of tragedy. I want the name of the movie to be on the poster. The overall mood should be warm and muted. The characters should be riding up a green hill. The camera view should be from the side of the main guy samurai. Make the image realistic and the main samurai should look western while the other samurai should look like tough asian samurai.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  I liked how the samurai looked, and the fact that the colors that I wanted were there
+- **What didn't work:**  some of the images looked too cartoonish and too bright.
+- **What I'll change for next attempt:**  I will tell it to make it more intense in battle and make the sky a bit darker
 
 ---
 
