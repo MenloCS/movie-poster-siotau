@@ -103,7 +103,7 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
----Image cannot be pasted onto this document
+---I selected the 4th one because it looked the closest to what I wanted
 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
@@ -119,8 +119,8 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1.  Main person
+2.  Title on the bottom
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
@@ -135,10 +135,10 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
 
 
-**What decision are you most proud of that the AI didn't make for you?**  
+**What decision are you most proud of that the AI didn't make for you?**  Picturing the image that I wanted
 
 
-**What would you do differently next time?**  
+**What would you do differently next time?**  I would choose a different movie
 
 
 ---
