@@ -30,35 +30,35 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  The Last Samurai
+- **Why I chose this movie:**  I like action and this movie
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Tragic, Tension
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  Main character of this movie on horse with other samurai in background
+- **Why this element:**  I want the poster to show them in battle
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  I do not want it to be too tragic but just have a feeling of tragedy. I want the name of the movie to be on the poster but not too attracting.
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Orange, Red, Black
+- **Accent color(s):**  Green, White
+- **Overall mood:** warm and muted
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
+- [X] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description:**  I want the main character to be the main focus
 
 ---
 
