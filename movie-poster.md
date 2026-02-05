@@ -89,21 +89,21 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Make me a movie poster of "The Last Samurai" movie. I want to make it feel tragic and tense. I want the main character to be riding a white horse with red samurai armor on and with other samurai behind him also riding horses. They should be in battle. I want the name of the movie to be on the poster. The overall mood should be warm and muted. The characters should be riding up a hill with the samurais in the background. The camera view should be from the side of the main guy samurai. Make the image realistic and the main samurai should look western while the other samurai should look like tough asian samurai. Make them very intense in battle and make the sky darker. The title should only say "The Last Samurai".
 
 - **What worked:**  
 - **What didn't work:**  
 - **What I'll change for next attempt:**  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:** Make me a movie poster of "The Last Samurai" movie. I want to make it feel tragic and tense. I want the main character to be riding a white horse with red samurai armor on and with other samurai behind him also riding horses. They should be in battle. I want the name of the movie to be on the poster. The overall mood should be warm and fast-paced. The characters should be riding up a hill with the samurai in the background. The camera view should be from the side of the main guy samurai. Make the image realistic and the main samurai should look western while the other samurai should look like tough asian samurai. Make them very intense in battle and make the sky darker. The title should only say "The Last Samurai".
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  I liked the general image and feeling
+- **What didn't work:**  It was really hard to make letters and there were some parts that looked unnatural. 
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
----
+---Image cannot be pasted onto this document
 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
